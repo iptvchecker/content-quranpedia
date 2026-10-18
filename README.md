@@ -1,6 +1,6 @@
 # Quranpedia resource mirror
 
-This repository preserves original Quranpedia.net resources used by iQuran. We do not claim ownership, close the material, alter its content or replace its licenses. Our intent is faithful reuse and reliable availability. Original authors, source credits and publisher conditions remain in force; this statement grants no additional rights.
+This repository preserves original Quranpedia.net resources used by iQuranHolder (حامل القرآن), with source credit, versions and checksums.
 
 ## Current archive
 
@@ -12,4 +12,6 @@ Read the preserved [publisher license](LICENSE.md). Republished datasets require
 
 Fetch source changes into a separate review branch. Validate checksums, version, original content and publisher terms before publishing an updated release. Never automatically delete a mirror because the original source removes it. Keep previous immutable releases and app-pinned revisions. Any removal requires a deliberate maintainer decision; publisher obligations remain in force.
 
-This repository contains no app source, user data or credentials. Publishing it does not change app endpoints or integrate the mirror into the app.
+## Mirror documentation update — October 18, 2026
+
+Simplified the mirror description to focus on content, sources and file layout. Corrected the app name where needed. Original content files, provider metadata, notices, licenses, filenames and checksum records were not changed.
